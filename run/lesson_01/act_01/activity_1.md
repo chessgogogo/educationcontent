@@ -11,7 +11,7 @@
 ## Introduction
 
 ### 介绍
-- 欢迎来到 Minecraft Education
+- 欢迎来到 Minecraft Education test
 - 让我们开始第一个任务：当游戏开始时，给自己一把镐子！
 
 ## Activity 1: 给予玩家工具
