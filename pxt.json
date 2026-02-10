@@ -268,7 +268,7 @@
         "computing/unit-3/lesson-1.md"
     ],
     "targetVersions": {
-        "target": "1.6.8",
+        "target": "2.1.27",
         "targetId": "minecraft"
     },
     "supportedTargets": [
