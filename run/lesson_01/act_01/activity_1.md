@@ -35,11 +35,3 @@ player.onChat("floor", function () {
     count = 0
 })
 ```
-
-```blocks
-mobs.give(
-mobs.target(NEAREST_PLAYER),
-WOODEN_PICKAXE,
-1
-)
-```
