@@ -1,6 +1,6 @@
 ### @activities true
 ### @codeStart players set @e[tag=game] makecode 0 
-### @codeStart players set @e[tag=game] makecode 1 
+### @codeStop players set @e[tag=game] makecode 1 
 
 ### @hideIteration true 
 ### @explicitHints 1
@@ -36,7 +36,7 @@ player.onChat("floor", function () {
 })
 ```
 
-```blocks    
+```blocks
 mobs.give(
 mobs.target(NEAREST_PLAYER),
 WOODEN_PICKAXE,
