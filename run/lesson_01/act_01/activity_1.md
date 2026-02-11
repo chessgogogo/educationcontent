@@ -5,7 +5,7 @@
 ### @hideIteration true 
 
 # 给自己一把镐子！
-- 欢迎来到 Minecraft Education 我的世界0.0.5
+- 欢迎来到 Minecraft Education 我的世界V0.0.5
 - 让我们开始第一个任务：当游戏开始时，给自己一把镐子！
 
 ## Step 1
