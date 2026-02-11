@@ -266,7 +266,8 @@
         "computing/unit-2/lesson-1.md",
         "computing/unit-2/lesson-2.md",
         "computing/unit-2/lesson-3.md",
-        "computing/unit-3/lesson-1.md"
+        "computing/unit-3/lesson-1.md",
+        "_locales/zh-CN/run/lesson_01/act_02/activity_1.md"
     ],
     "targetVersions": {
         "target": "2.1.27",
