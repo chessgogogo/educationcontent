@@ -1,7 +1,7 @@
-### @codeStart players set @e[tag=game] makecode 0 
-### @codeStop players set @e[tag=game] makecode 1 
+### @codeStart players set @e[tag=game] makecode 0
+### @codeStop players set @e[tag=game] makecode 1
 
-### @hideIteration false 
+### @hideIteration false
 
 # 介绍
 
@@ -17,15 +17,6 @@
    - 目标：**最近的玩家 (@p)**
    - 物品：**镐子**
    - 数量：**1**
-
-#### ~ tutorialhint
-```blocks
-mobs.give(
-mobs.target(NEAREST_PLAYER),
-WOODEN_PICKAXE,
-1
-)
-```
 
 ```blocks
 mobs.give(
