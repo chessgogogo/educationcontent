@@ -3,7 +3,7 @@
 ### @explicitHints true
 
 ## Step 1 @unplugged
-不插电活动001，In this activity we will start to use MakeCode blocks to enable the Agent to build.
+不插电活动001-v0.5，In this activity we will start to use MakeCode blocks to enable the Agent to build.
 
 We can use the ``||AGENT:agent place forward||`` block to allow us to specify where the agent will place a single block either back, forward, left, right, up or down.
 
