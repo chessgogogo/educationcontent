@@ -7,7 +7,6 @@
 
 ## Step 1 @showdialog
 编写程序，当点击右下角“绿色按钮”运行程序时给玩家一把镐子。
-![01](https://github.com/chessgogogo/educationcontent/img/run.jpg?raw=true  "run")
 
 1. 从 **循环** 分类中拖出 **``||loops: 当开机时 ||``** 积木
 2. 从 **生物** 分类中拖出 **``||mobs: 提供给 ||``** 积木，放入 **``||loops: 当开机时 ||``** 积木内部
