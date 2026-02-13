@@ -1,7 +1,5 @@
 ### @codeStart players set @e[tag=game] makecode 0
 ### @codeStop players set @e[tag=game] makecode 1
-### @codeStart players set @e[tag=game] var1 99
-### @codeStop players set @e[tag=game] var2 100
 
 ### @hideIteration false
 
