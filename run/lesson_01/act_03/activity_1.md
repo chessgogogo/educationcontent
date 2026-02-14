@@ -19,5 +19,5 @@
    - 放大器：**255**（完全隐身）
 
 ```blocks
-mobs.applyEffect(INVISIBILITY, mobs.target(NEAREST_PLAYER), 180, 100)
+mobs.applyEffect(INVISIBILITY, mobs.target(NEAREST_PLAYER), 600, 255)
 ```
