@@ -16,10 +16,10 @@
    - 目标：**最近的玩家 (@p)**
    - 施加：**夜视、跳跃提升、防火**
    - 持续时间：**600**刻（30秒）
-   - 放大器：**255**（最大化）
+   - 放大器：**4**（跳跃提升设置为4级）
 
 ```blocks
-mobs.applyEffect(NIGHT_VISION, mobs.target(NEAREST_PLAYER), 600, 255)
-mobs.applyEffect(JUMP_BOOST, mobs.target(NEAREST_PLAYER), 600, 255)
-mobs.applyEffect(FIRE_RESISTANCE, mobs.target(NEAREST_PLAYER), 600, 255)
+mobs.applyEffect(NIGHT_VISION, mobs.target(NEAREST_PLAYER), 600, 4)
+mobs.applyEffect(JUMP_BOOST, mobs.target(NEAREST_PLAYER), 600, 4)
+mobs.applyEffect(FIRE_RESISTANCE, mobs.target(NEAREST_PLAYER), 600, 4)
 ```
