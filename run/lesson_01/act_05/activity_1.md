@@ -19,6 +19,6 @@
    - 放大器：**4**（设置为4级）
 
 ```blocks
-mobs.apply_effect(SPEED, mobs.target(NEAREST_PLAYER), 600, 4)
-mobs.apply_effect(WATER_BREATHING, mobs.target(NEAREST_PLAYER), 600, 4)
+mobs.applyEffect(SPEED, mobs.target(NEAREST_PLAYER), 600, 4)
+mobs.applyEffect(WATER_BREATHING, mobs.target(NEAREST_PLAYER), 600, 4)
 ```
