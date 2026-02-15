@@ -16,9 +16,9 @@
    - 目标：**最近的玩家 (@p)**
    - 施加：**速度、水下呼吸**
    - 持续时间：**600**刻（30秒）
-   - 放大器：**4**（设置为4级）
+   - 放大器：**5**（设置为5级）
 
 ```blocks
-mobs.applyEffect(SPEED, mobs.target(NEAREST_PLAYER), 600, 4)
-mobs.applyEffect(WATER_BREATHING, mobs.target(NEAREST_PLAYER), 600, 4)
+mobs.applyEffect(SPEED, mobs.target(NEAREST_PLAYER), 600, 5)
+mobs.applyEffect(WATER_BREATHING, mobs.target(NEAREST_PLAYER), 600, 5)
 ```
